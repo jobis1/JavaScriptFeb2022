@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "jest_test",
+  "version": "1.0.0",
+  "description": "Jest Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Johanna G",
+  "license": "ISC",
+  "keywords": [
+    "jest"
+  ]
+}

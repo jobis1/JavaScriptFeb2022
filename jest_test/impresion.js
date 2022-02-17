@@ -1,6 +1,6 @@
 
 function impresion (){
     let hola = "Hola Mundo";
-    return hola;
+    return hola
 }
 module.exports = impresion

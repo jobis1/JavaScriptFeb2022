@@ -1,0 +1,11 @@
+{
+  "name": "tarea_16feb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "johaG",
+  "license": "ISC"
+}

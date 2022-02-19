@@ -10,7 +10,7 @@ const operaciones = {
     return user;
   },
   minusculas: (objeto) => {
-    if (objeto ==="string" && objeto.match('^[a-zA-Z0-9 ]+$')) {
+    if (typeof objeto === 'String' && objeto.match('^[a-zA-Z0-9 ]+$')) {
       return true;
     } else return false;
     console.log("Solo se aceptan Letras");

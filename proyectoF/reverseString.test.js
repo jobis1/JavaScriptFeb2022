@@ -43,5 +43,5 @@ test("Test: ...", () => {
 
 test("Test: ...", () => {
   //boolean is not defined hacer esta validacion en código  **Opcional si para hacer que funciones tiene que cambiar la funcion adelante
-  expect(reversa(boolean)).toBe("boolean is not defined");
+  expect(reversa('boolean')).toBeUndefined();
 });
